@@ -43,6 +43,5 @@ Building production-grade machine learning systems and generative AI application
 ```
 
 
-TOTAL TIME: 60 minutes
 
 Then: You're READY for March 9 sprint! 🚀
