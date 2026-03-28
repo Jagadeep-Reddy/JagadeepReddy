@@ -21,8 +21,7 @@ Building production-grade machine learning systems and generative AI application
 **Data:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 
 ## 📊 Featured Projects (Coming Soon)
-- 🎯 Credit Risk Prediction - XGBoost model with 85%+ accuracy
-- 💬 Financial Sentiment Analysis - Real-time BERT sentiment dashboard
+- Fraud Detection & Survival Analysis Engine
 
 ## 📈 What I'm Learning
 - Generative AI & Large Language Models
